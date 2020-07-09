@@ -18,7 +18,7 @@ body{
   border-radius:8px;
   font-size:25px;
   text-align: center;
-  background-color:white;
+  background-color:lightblue;
 
 }
 
@@ -76,6 +76,7 @@ body{
   padding: 1%;
   margin: 1%;
   border-radius:8px;
+  background-color:lightpink;
 
 }
 
