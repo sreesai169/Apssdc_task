@@ -97,6 +97,7 @@ a{
   border-radius:8px;
   font-size:25px;
   text-align: center;
+  background-color:lightpink;
 
 }
 
@@ -152,6 +153,7 @@ a{
   padding: 1%;
   margin: 1%;
   border-radius:8px;
+  background-color:lightblue;
 
 }
 @media only screen and (min-width: 480px) and (max-width: 720px){
