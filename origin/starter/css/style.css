@@ -207,7 +207,7 @@ body {
 }
 
 .resume .resume_right .resume_hobby ul li {
-  width: 80px;
+  width: 90px;
   height: 80px;
   border: 2px solid #f40b9b;
   border-radius: 50%;
@@ -223,8 +223,8 @@ body {
   content: "";
   position: absolute;
   top: 40px;
-  right: -21px;
-  width: 19px;
+  right: -25px;
+  width: 25px;
   height: 2px;
   background: #f40b9b;
 }
