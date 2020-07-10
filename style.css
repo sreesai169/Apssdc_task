@@ -36,12 +36,12 @@ h3{
 .child1:hover{
 	transform: translateY(-20px);
 	transition: 0.5s;
-	box-shadow: 0 0 0 1500px #4e73df;
+	box-shadow: 0 0 0 1500px;
 }
 .child2:hover{
 	transform: translateY(-20px);
 	transition: 0.5s;
-	box-shadow: 0 0 0 1500px #4e73df;
+	box-shadow: 0 0 0 1500px;
 	
 
 }
