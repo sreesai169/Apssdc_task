@@ -35,14 +35,14 @@ h3{
 }
 .child1:hover{
 	width:500px;
-	height:480px;
+	height:460px;
 	transform: translateY(-20px);
 	transition: 0.5s;
 	
 }
 .child2:hover{
 	width:500px;
-	height:480px;
+	height:450px;
 	transform: translateY(-20px);
 	transition: 0.5s;
 
