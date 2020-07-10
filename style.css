@@ -70,7 +70,7 @@ h3{
 
 }
 a:hover{
-	box-shadow: 14px 14px 22px rgba(180,0,0,.5);
+	box-shadow: 14px 14px 22px ;
 	transition: .5s;
 }
 
