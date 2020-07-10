@@ -33,17 +33,14 @@ h3{
 	border-radius: 50%;
 	box-shadow: 2px 3px 10px rgba(0,0,0,.3);
 }
-.child1:hover{
+.child1:hover,.child2:hover{
+	width:500px;
+	height:400px;
 	transform: translateY(-20px);
 	transition: 0.5s;
 	
-.child2:hover{
-	transform: translateY(-20px);
-	transition: 0.5s;
-
-	
-
 }
+
  a {
     padding: 10px 20px;
     background: #fff;
